@@ -1,0 +1,19 @@
+{
+  "applications": ["demoCamunda"],
+  "changelogDate": "20240804094649",
+  "clientRootFolder": "demoCamunda",
+  "databaseType": "sql",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "a",
+  "fields": [],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "microserviceName": "demoCamunda",
+  "name": "A",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no",
+  "skipClient": true
+}

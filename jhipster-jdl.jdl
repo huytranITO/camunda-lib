@@ -1,0 +1,13 @@
+
+application {
+  config {
+    baseName demoCamunda
+    applicationType microservice
+    packageName com.abb
+    authenticationType jwt
+    prodDatabaseType mysql
+  }
+  entities *
+}
+
+entity A {}
